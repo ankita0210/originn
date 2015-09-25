@@ -1,2 +1,0 @@
-# origin
-smarter origin
